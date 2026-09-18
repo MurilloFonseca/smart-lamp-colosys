@@ -7,6 +7,7 @@ Desenvolvido pelo grupo **Colosys**.
 ## 👥 Autores
 
 - Beatriz dos Santos Silva — RM573698
+- Gabriel Kenzo -  RM569780
 - Lorenzo Mendes Pena — RM570036
 - Maria Clara Ramos Santini — RM573246
 - Murillo Perez da Fonseca — RM573674
@@ -84,7 +85,7 @@ mosquitto_pub -h 46.17.108.113 -t /TEF/lamp200/cmd -m "lamp200@on|"
 
 - [Wokwi](https://wokwi.com/projects/475496233707084801)
 - [Github](https://github.com/MurilloFonseca/smart-lamp-colosys)
-- [Video]() (*adicionar depois*)
+- [Video](https://www.youtube.com/watch?v=De6Z0xVxRAE)
 
 
 ## 🔄 Fluxo de funcionamento

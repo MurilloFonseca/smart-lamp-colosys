@@ -2,6 +2,7 @@
   Autores - grupo Colosys
 
   Beatriz dos Santos Silva - RM573698
+  Gabriel Kenzo -  RM569780
   Lorenzo Mendes Pena - RM570036
   Maria Clara Ramos Santini - RM573246
   Murillo Perez da Fonseca - RM573674
